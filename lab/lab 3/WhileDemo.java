@@ -1,3 +1,4 @@
+// Lab 3-4
 // Write a program WhileDemo that prints the output on the next page.
 // Create an int type variable countDown whose initial value of the first loop is 3,
 // and initial value of the second loop is 0.
